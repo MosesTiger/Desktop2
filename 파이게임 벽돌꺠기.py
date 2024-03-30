@@ -22,3 +22,4 @@ def draw_text(text, size, x, y):
 def game_over(): 
     draw_text("GAME OVER",48)
     print("game over")
+    print("github 공부중 ")
