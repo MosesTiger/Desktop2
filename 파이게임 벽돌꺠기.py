@@ -23,3 +23,4 @@ def game_over():
     draw_text("GAME OVER",48)
     print("game over")
     print("github 공부중 ")
+    print("어렵다.")
