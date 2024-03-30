@@ -19,5 +19,6 @@ def draw_text(text, size, x, y):
     text_rect = text_surface.get_rect()
     text_rect.midtop = (x,y)
     screen.blit(text_surface, text_rect)
-def game_over():
+def game_over(): 
     draw_text("GAME OVER",48)
+    print("game over")
